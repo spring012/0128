@@ -1,0 +1,9 @@
+{
+    "port": 22023,
+    "path": "/websocket_path",
+    "password": "wenchou_paper_888",
+    "admin": {
+      "enable": false,
+      "admin_password": "new_password"
+    }
+}

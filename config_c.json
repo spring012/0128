@@ -1,0 +1,21 @@
+{
+    "server": {
+      "url": "ws://8.217.90.53:22023/websocket_path",
+      "password": "wenchou_paper_888"
+    },
+    "client_name": "home_pc",
+    "client": [
+      {
+        "name": "ssh",
+        "remote_port": 22027,
+        "local_port": 22,
+        "local_ip": "127.0.0.1"
+      },
+      {
+        "name": "paper",
+        "remote_port": 22024,
+        "local_port": 22024,
+        "local_ip": "127.0.0.1"
+      }
+    ]
+}
